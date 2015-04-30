@@ -1,0 +1,7 @@
+E - T E'
+E' - + T E' | e
+T - F T'
+T' - * F T' | e
+F - ( E ) | id
+end
+id + id 
